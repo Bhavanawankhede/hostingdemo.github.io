@@ -113,7 +113,7 @@ export function StoreItem({
       <Card>
         <CardMedia
           component="img"
-          image={require("C:/Users/bhavanaw/Desktop/PetShopWebsiteLatest/myfetminiprojectstuffonacer/Images/" +
+          image={require("E:/PetShopWebsiteLatest/myfetminiprojectstuffonacer/Images/" +
             itemImage)}
           style={Style}
         />

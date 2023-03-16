@@ -83,30 +83,6 @@ img{
   color: red;
 }
 
-/* .price{
-  color: black;
-  font-size: 22px;
-}
-.row{
-  text-align: center;
-  padding-left: 40px;
-  padding-right: 20px;
-  ;
-}
-.column{
-  padding-left: 500px;
-  float: left;
-  width: 25%;
-  padding: 0 10px;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-  margin: auto;
-  text-align: center;
-  font-family: arial;
-  background-color: burlywood;
-  height: auto;
-  
-} */
-
 .ShowDogs{
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
@@ -212,4 +188,33 @@ padding-right: 30px;
 
 .paddingClass{
   padding-left: 30px;
+}
+
+.selectBtn{
+  background-color: black !important;
+  color: white !important;
+  border-radius: 40px !important;
+  width: 240px;
+  min-height: 48px; 
+}
+
+.textareaClass{
+  width: 400px;
+  height: 80p !important;
+}
+
+.mainContainer4{
+  justify-content: center;
+  display: flex;
+}
+
+.backButton{
+  float: right;
+}
+.Buttondiv{
+  display: flex;
+}
+
+.selectMainBtn{
+  color: white !important;
 }

@@ -7,7 +7,6 @@ import Home from "./MyComponents/Home";
 import Login from "./MyComponents/Login";
 import Logout from "./MyComponents/Logout";
 import Navbar from "./MyComponents/Navbar";
-import Order from "./MyComponents/Order";
 import Order1 from "./MyComponents/Order1";
 import OrderNext from "./MyComponents/OrderNext";
 import { ShoppingCart } from "./MyComponents/ShoppingCart";

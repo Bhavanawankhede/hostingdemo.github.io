@@ -115,7 +115,7 @@ export default function Home() {
             <CardMedia
               component="img"
               height="200"
-              image="https://th.bing.com/th/id/R.bec9cc8b9cdbe891f18888067f36b5ab?rik=EFFcls8fldWACg&riu=http%3a%2f%2fpavbca.com%2fwalldb%2foriginal%2f0%2f3%2f3%2f88562.jpg&ehk=C2H0OR6d%2fTTLkpVemqqcK7SmFGEfrK4m2gxl13JPRWQ%3d&risl=&pid=ImgRaw&r=0"
+              image="https://th.bing.com/th/id/OIP.v9a_7sdx8fmIq41pL6MRRQHaE8?w=269&h=180&c=7&r=0&o=5&dpr=1.4&pid=1.7"
             />
           </Card>
         </Box>
